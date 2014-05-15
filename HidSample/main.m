@@ -144,8 +144,8 @@ static void reportHidElement(HIDElement *element) {
     }
     
     if (element->usagePage == 1 && element->currentValue < 0x10000) {
-        float scale_x = SCREEN_RESX / 32768.0f;
-        float scale_y = SCREEN_RESY / 32768.0f;
+        float scale_x = SCREEN_RESX / 3948.0f;
+        float scale_y = SCREEN_RESY / 2224.0f;
         
         short value = element->currentValue & 0xffff;
         
