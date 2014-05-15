@@ -13,8 +13,8 @@
 
 #define NUM_TOUCHES 1
 
-#define TOUCH_VID 0x596
-#define TOUCH_PID 0x524
+#define TOUCH_VID 0x04f3
+#define TOUCH_PID 0x0224
 
 #define SCREEN_RESX 1920
 #define SCREEN_RESY 1080
