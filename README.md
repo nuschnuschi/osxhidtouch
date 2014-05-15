@@ -29,4 +29,4 @@ ex.) org.yourname.hidtouch.Daemon.plist
 </dict>
 </plist>
  ﻿
- 4. Reboot
+4. Reboot
