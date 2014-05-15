@@ -2,7 +2,7 @@ osxhidtouch
 ===========
 
 User-space HID multitouch touchscreen driver for Mac OS X.   
-Fork for Thinkpad T440s's Elan Microelectronics TouchScreen.
+This is a fork for Thinkpad T440s's Elan Microelectronics TouchScreen.
 
 How to install:
 
