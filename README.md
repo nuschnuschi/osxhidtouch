@@ -1,7 +1,8 @@
 osxhidtouch
 ===========
 
-User-space HID multitouch touchscreen driver for Mac OS X. Fork for Thinkpad T440s's Elan Microelectronics TouchScreen
+User-space HID multitouch touchscreen driver for Mac OS X. 
+Fork for Thinkpad T440s's Elan Microelectronics TouchScreen
 
 How to install:
 
@@ -28,5 +29,5 @@ ex.) org.yourname.hidtouch.Daemon.plist
         <string>/usr/bin/Hidtouch</string>
 </dict>
 </plist>
- ﻿
+
 4. Reboot
