@@ -12,6 +12,6 @@ How to install:
 sudo chown root:wheel /usr/bin/HidTouch
 sudo chmod 755 /usr/bin/HidTouch
 
-3. Copy 'org.hidtouch.Daemon.plist' to /Library/LaunchDaemons/
+3. Copy 'org.osxhidtouch.hidtouch.Daemon.plist' to /Library/LaunchDaemons/
 
 4. Reboot
