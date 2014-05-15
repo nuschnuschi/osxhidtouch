@@ -29,5 +29,3 @@ ex.) org.yourname.hidtouch.Daemon.plist
         <string>/usr/bin/Hidtouch</string>
 </dict>
 </plist>
-
-4. Reboot
